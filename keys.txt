@@ -1,0 +1,3 @@
+My Client ID: 629685240374-ijj0b0o7lsdheg4e0takcm7hp8tjdn35.apps.googleusercontent.com
+
+My Client Secret: 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
